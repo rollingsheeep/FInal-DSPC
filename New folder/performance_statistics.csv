@@ -1,0 +1,7 @@
+,Time (ms),Time (ms),Time (ms),Time (ms),Time (ms),Time (ms)
+,count,mean,median,std,min,max
+Method,,,,,,
+CUDA,47,363.89,171.0,471.32,65,2079
+MPI,47,735.26,238.0,1192.78,6,5111
+OpenMP,47,349.64,127.0,535.29,10,2297
+Sequential,47,3500.11,1805.0,4122.98,1025,19250
