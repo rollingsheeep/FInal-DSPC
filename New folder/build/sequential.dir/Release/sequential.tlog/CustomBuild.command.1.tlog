@@ -1,6 +1,6 @@
-^C:\USERS\USER\DESKTOP\FINAL DSPC\NEW FOLDER\CMAKELISTS.TXT
+^D:\PROJECT\FINAL DSPC\NEW FOLDER\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/user/Desktop/FInal DSPC/New folder" "-BC:/Users/user/Desktop/FInal DSPC/New folder/build" --check-stamp-file "C:/Users/user/Desktop/FInal DSPC/New folder/build/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Project/FInal DSPC/New folder" "-BD:/Project/FInal DSPC/New folder/build" --check-stamp-file "D:/Project/FInal DSPC/New folder/build/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

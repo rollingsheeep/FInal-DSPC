@@ -1,6 +1,6 @@
-C:/Users/user/Desktop/FInal DSPC/New folder/build/CMakeFiles/sequential.dir
-C:/Users/user/Desktop/FInal DSPC/New folder/build/CMakeFiles/omp_version.dir
-C:/Users/user/Desktop/FInal DSPC/New folder/build/CMakeFiles/mpi_version.dir
-C:/Users/user/Desktop/FInal DSPC/New folder/build/CMakeFiles/cuda_version.dir
-C:/Users/user/Desktop/FInal DSPC/New folder/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/user/Desktop/FInal DSPC/New folder/build/CMakeFiles/ZERO_CHECK.dir
+D:/Project/FInal DSPC/New folder/build/CMakeFiles/sequential.dir
+D:/Project/FInal DSPC/New folder/build/CMakeFiles/omp_version.dir
+D:/Project/FInal DSPC/New folder/build/CMakeFiles/mpi_version.dir
+D:/Project/FInal DSPC/New folder/build/CMakeFiles/cuda_version.dir
+D:/Project/FInal DSPC/New folder/build/CMakeFiles/ALL_BUILD.dir
+D:/Project/FInal DSPC/New folder/build/CMakeFiles/ZERO_CHECK.dir
